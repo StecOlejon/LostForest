@@ -1,1 +1,1 @@
-Console.WriteLine("Stec Sosal Ogromnuyu Bibu");
+Console.WriteLine("Hello, World! \n ЭТО НАША АХУЕННАЯ ИГРА ЧЕКАЙ МАТЬ !!!")
