@@ -1,1 +1,0 @@
-Console.WriteLine("Hello, World! \n ЭТО НАША АХУЕННАЯ ИГРА ЧЕКАЙ МАТЬ !!!")
