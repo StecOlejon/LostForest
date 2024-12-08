@@ -1,0 +1,15 @@
+E:\LOSTFOREST_GIT_REPO\LostForest\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.exe
+E:\LOSTFOREST_GIT_REPO\LostForest\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.deps.json
+E:\LOSTFOREST_GIT_REPO\LostForest\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.runtimeconfig.json
+E:\LOSTFOREST_GIT_REPO\LostForest\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.dll
+E:\LOSTFOREST_GIT_REPO\LostForest\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.pdb
+E:\LOSTFOREST_GIT_REPO\LostForest\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\LOSTFOREST_GIT_REPO\LostForest\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.AssemblyInfoInputs.cache
+E:\LOSTFOREST_GIT_REPO\LostForest\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.AssemblyInfo.cs
+E:\LOSTFOREST_GIT_REPO\LostForest\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\LOSTFOREST_GIT_REPO\LostForest\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.sourcelink.json
+E:\LOSTFOREST_GIT_REPO\LostForest\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.dll
+E:\LOSTFOREST_GIT_REPO\LostForest\ConsoleApp1\obj\Debug\net9.0\refint\ConsoleApp1.dll
+E:\LOSTFOREST_GIT_REPO\LostForest\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.pdb
+E:\LOSTFOREST_GIT_REPO\LostForest\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.genruntimeconfig.cache
+E:\LOSTFOREST_GIT_REPO\LostForest\ConsoleApp1\obj\Debug\net9.0\ref\ConsoleApp1.dll
