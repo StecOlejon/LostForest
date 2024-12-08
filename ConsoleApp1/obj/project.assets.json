@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\super\\.nuget\\packages\\": {}
+    "C:\\Users\\WAYK\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project\\Git\\LostForest\\ClassLibrary2\\ClassLibrary2.csproj",
-      "projectName": "ClassLibrary2",
-      "projectPath": "D:\\Project\\Git\\LostForest\\ClassLibrary2\\ClassLibrary2.csproj",
-      "packagesPath": "C:\\Users\\super\\.nuget\\packages\\",
-      "outputPath": "D:\\Project\\Git\\LostForest\\ClassLibrary2\\obj\\",
+      "projectUniqueName": "E:\\LOSTFOREST_GIT_REPO\\LostForest\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectName": "ConsoleApp1",
+      "projectPath": "E:\\LOSTFOREST_GIT_REPO\\LostForest\\ConsoleApp1\\ConsoleApp1.csproj",
+      "packagesPath": "C:\\Users\\WAYK\\.nuget\\packages\\",
+      "outputPath": "E:\\LOSTFOREST_GIT_REPO\\LostForest\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\super\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\WAYK\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
