@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Project\\Git\\LostForest\\ClassLibrary2\\ClassLibrary2.csproj": {}
+    "D:\\Project\\Git\\LostForest\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "D:\\Project\\Git\\LostForest\\ClassLibrary2\\ClassLibrary2.csproj": {
+    "D:\\Project\\Git\\LostForest\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Project\\Git\\LostForest\\ClassLibrary2\\ClassLibrary2.csproj",
-        "projectName": "ClassLibrary2",
-        "projectPath": "D:\\Project\\Git\\LostForest\\ClassLibrary2\\ClassLibrary2.csproj",
+        "projectUniqueName": "D:\\Project\\Git\\LostForest\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectName": "ConsoleApp1",
+        "projectPath": "D:\\Project\\Git\\LostForest\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\super\\.nuget\\packages\\",
-        "outputPath": "D:\\Project\\Git\\LostForest\\ClassLibrary2\\obj\\",
+        "outputPath": "D:\\Project\\Git\\LostForest\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\super\\AppData\\Roaming\\NuGet\\NuGet.Config"
